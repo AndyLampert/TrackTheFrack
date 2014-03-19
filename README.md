@@ -4,7 +4,7 @@ Track the Frack
 There is little to no usable neighborhood scale data of water quality concerns in Boulder County. A resident wants to document her concerns about the effects of hydraulic fracturing on her water well quality and compare her results against neighbors' reports. 
 
 ## Installation, Usage  
-Todo  
+To-do List  
 
 ## Contributing  
 Here are some ways you can contribute:
